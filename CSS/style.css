@@ -79,3 +79,9 @@ a:link {
   font-size: 16px;
   font-weight: 600;
 }
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
